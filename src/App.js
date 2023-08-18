@@ -1,8 +1,12 @@
 import React from 'react'
+import Navbar from './Components/navbar/NavBar'
 
 const App = () => {
   return (
-    <div className='bg-slate-400'> Hii I AM SHUBHAM ANNPURNE </div>
+    <div className="w-full h-auto bg-black text-lightText px-4">
+    <Navbar />
+
+    </div>
   )
 }
 
