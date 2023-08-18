@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from "react-scroll";// this module provide the scrolling according to link
+import { Link } from "react-scroll";// this module add for the link to scrolling
 import { navLinksdata } from '../../constant/index'
 
 const Navbar = () => {
