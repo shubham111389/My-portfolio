@@ -14,7 +14,7 @@ const Navbar = () => {
             <li
               className="text-base font-normal text-gray-400 tracking-wide cursor-pointer hover:text-designColor duration-300"
               key={_id}
-            >
+            >  
               <Link
                 activeClass="active"
                 to={link}
