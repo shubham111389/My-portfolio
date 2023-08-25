@@ -5,7 +5,7 @@ import { navLinksdata } from '../../constants/index'
 const Navbar = () => {
   return (
     <div className="w-full h-24 sticky top-0 z-50 bg-bodyColor mx-auto flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600">
-      <div className='text-white'>
+      <div className='text-white px-5 text-lg tracking-wide cursor-pointer hover:text-designColor duration-300'>
          SHUBHAM ANNPURNE
       </div>
       <div>

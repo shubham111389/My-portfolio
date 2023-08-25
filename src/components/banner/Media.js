@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaFacebookF, FaTwitter, FaLinkedinIn, FaReact } from "react-icons/fa";
+import { FaFacebookF,  FaLinkedinIn, FaReact ,FaGithub} from "react-icons/fa";
 import { SiTailwindcss, SiFigma, SiNextdotjs } from "react-icons/si";
 const Media = () => {
   return (
@@ -13,12 +13,14 @@ const Media = () => {
             <a  href =' https://www.facebook.com/shubham.annpurne.37?mibextid=ZbWKw' className="bannerIcon " >
               <FaFacebookF />
             </a>
-            <a href ="https://twitter.com/SAnnpurne?s=09" className="bannerIcon">
-              <FaTwitter />
+            <a href ="https://github.com/shubham111389" className="bannerIcon">
+              <FaGithub />
             </a>
             <a href ='https://www.linkedin.com/in/shubham-annpurne-0183bb232/'className="bannerIcon">
               <FaLinkedinIn />
             </a>
+            
+
           </div>
           </>
         </div>

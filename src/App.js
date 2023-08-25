@@ -17,7 +17,6 @@ function App() {
         <Features />
         <Projects />
         <Resume />
-        
         <Contact />
         <Footer />
         <FooterBottom />
