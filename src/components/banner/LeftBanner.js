@@ -26,7 +26,7 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-          I am undergraduate student form Batu university.
+        I'm a self-driven React web developer and coder with a passion for solving complex real-world problems. A quick starter with a curious mind, I thrive on challenges and enjoy diving into intricate programming tasks..
         </p>
       </div>
      {/* Media */}
