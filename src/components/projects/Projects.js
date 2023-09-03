@@ -43,7 +43,7 @@ const Projects = () => {
           des=" 📺 Welcome to our React-powered FOOD_Haven Web-app Discover your favourite restaurnat with ease through advanced search ,  Add Favourate dishes to your cart  and login  hassle-free.,Enjoy a yummy design  while you explore a world of flavors! 🚀👨‍🍳🎉"
           src={Project_three}
           github_url={"https://github.com/shubham111389/Food_haven"}
-          live_url={"https://64d88c1f17608f7513f15861--lovely-zabaione-67b5e6.netlify.app/"}
+          live_url={"https://food-haven1.vercel.app/"}
 
         />
         <ProjectsCard
